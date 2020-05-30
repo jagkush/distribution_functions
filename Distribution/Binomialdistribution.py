@@ -13,9 +13,7 @@ class Binomial(Distribution):
         p (float) representing the probability of an event occurring
         n (int) number of trials
     
-    
-    TODO: Fill out all functions below
-            
+              
     """
     
     
